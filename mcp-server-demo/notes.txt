@@ -1,0 +1,12 @@
+Noor is best.
+100 character
+1. AI's foundation rests on machine learning algorithms that can improve from experience without explicit programming.
+2. Neural networks, inspired by human brain structure, are a key component of modern AI systems.
+3. Generative AI models like large language models can create content after training on vast datasets.
+4. Computer vision enables AI to interpret and understand visual information from the world.
+5. Natural language processing allows AI to understand, interpret, and generate human language.
+6. Reinforcement learning is a training method where AI learns optimal behaviors through trial and error with rewards/penalties.
+7. AI ethics concerns include issues of bias, privacy, transparency, and ensuring systems benefit humanity.
+8. AI alignment research focuses on ensuring advanced AI systems act in accordance with human values and intentions.
+9. Edge AI refers to AI algorithms processed locally on a hardware device rather than in the cloud.
+10. Multimodal AI systems can process and understand multiple types of information (text, images, audio) simultaneously.

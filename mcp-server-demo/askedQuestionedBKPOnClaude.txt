@@ -1,0 +1,56 @@
+@AI Sticky Notes what are tools availbale?
+
+Edit
+I can see you'd like to know about the available tools in this environment. I have access to several tools that can help you:
+
+Sticky Notes - I can add and read notes for you with the following functions:
+add_note - Allows me to save a note with content you provide
+read_notes - Allows me to retrieve all previously saved notes
+Artifacts - I can create self-contained pieces of content like code, documents, SVG images, Mermaid diagrams, and React components. These artifacts can be referenced and updated throughout our conversation.
+Would you like me to demonstrate how to use any of these tools, or do you have something specific you'd like to accomplish with them?
+
+
+what are the notes?
+
+Edit
+Let me check what notes are currently saved.
+
+
+R
+
+read_notes
+
+
+Here are the current notes I found:
+
+"Noor is best."
+"100 character"
+Would you like me to add a new note, or is there anything else you'd like to do with these notes?
+
+make 10 notes on AI
+
+I'll create 10 notes about AI for you.
+
+A
+add_note
+A
+add_note
+A
+add_note
+.
+.
+..
+I've added 10 notes about AI to your sticky notes. They cover fundamental concepts, techniques, ethics, and recent developments in artificial intelligence. Would you like me to show you all the notes now?
+... created 10 notes and saved in notes.text
+
+
+can you summarize
+read_note
+Summary of AI Notes
+The stored notes provide a compact overview of AI concepts:
+
+Core Technologies: AI is built on machine learning algorithms and neural networks that can learn and improve from data.
+Key Capabilities: AI systems can generate content (generative AI), process visual information (computer vision), understand and produce language (NLP), and learn through rewards/penalties (reinforcement learning).
+Important Considerations: The notes highlight ethical challenges (bias, privacy), the importance of alignment with human values, and emerging trends like edge computing and multimodal systems that combine different types of data processing.
+
+Additionally, there are two earlier notes: "Noor is best" and "100 character" that appear unrelated to the AI topic.
