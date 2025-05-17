@@ -6,7 +6,7 @@ The **Model Context Protocol (MCP)** allows you to build servers that expose **d
 
 Think of it as a specialized **web API** tailored for LLMs.
 
-### ✨ What MCP Servers Can Do
+### ✨ What MCP Servers Can Do:
 
 - 🔍 **Resources**: Expose data (like `GET` endpoints) – used to load context into the LLM.
 - 🛠️ **Tools**: Provide functionality (like `POST` endpoints) – used to run code or cause side effects.
