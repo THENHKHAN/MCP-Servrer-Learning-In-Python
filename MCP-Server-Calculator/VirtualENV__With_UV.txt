@@ -1,0 +1,61 @@
+
+RAN in BASH:
+
+NHKHAN@DESKTOP-V5NRBFL MINGW64 /f/McpServerLearning10may25/MCP-Server-Calculator
+$ python -m venv calc
+
+
+NHKHAN@DESKTOP-V5NRBFL MINGW64 /f/McpServerLearning10may25/MCP-Server-Calculator
+$ calc\Scripts\activate
+bash: calcScriptsactivate: command not found
+
+
+NHKHAN@DESKTOP-V5NRBFL MINGW64 /f/McpServerLearning10may25/MCP-Server-Calculator
+$ source calc/Scripts/activate
+
+
+((calc) ) 
+NHKHAN@DESKTOP-V5NRBFL MINGW64 /f/McpServerLearning10may25/MCP-Server-Calculator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+
+NHKHAN@DESKTOP-V5NRBFL MINGW64 /f/McpServerLearning10may25/MCP-Server-Calculator
+$ uv venv
+Using CPython 3.12.10 interpreter at: C:\Users\NHKHAN\AppData\Local\Programs\Python\Python312\python.exe
+Creating virtual environment at: .venv
+Activate with: source .venv/Scripts/activate
+
+
+NHKHAN@DESKTOP-V5NRBFL MINGW64 /f/McpServerLearning10may25/MCP-Server-Calculator
+$ uv venv .calc
+Using CPython 3.12.10 interpreter at: C:\Users\NHKHAN\AppData\Local\Programs\Python\Python312\python.exe
+Creating virtual environment at: .calc
+Activate with: source .calc/Scripts/activate
+
+NHKHAN@DESKTOP-V5NRBFL MINGW64 /f/McpServerLearning10may25/MCP-Server-Calculator
+$ source .venv/Scripts/activate
+
+(MCP-Server-Calculator)
+NHKHAN@DESKTOP-V5NRBFL MINGW64 /f/McpServerLearning10may25/MCP-Server-Calculator
+$ deactivate
+
+NHKHAN@DESKTOP-V5NRBFL MINGW64 /f/McpServerLearning10may25/MCP-Server-Calculator
+$ source .calc/Scripts/activate
+
+
+(.calc)
+NHKHAN@DESKTOP-V5NRBFL MINGW64 /f/McpServerLearning10may25/MCP-Server-Calculator
+$

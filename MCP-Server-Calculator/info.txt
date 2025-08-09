@@ -1,0 +1,41 @@
+mcp dev calculator.py
+    using MCP’s developer CLI mode, which spins up a local development server with an Inspector UI.
+
+✅ What’s Happening
+mcp dev calculator.py does the following:
+
+            Launches your MCP tool server
+
+            Starts a local web server
+
+            Displays a URL (usually http://localhost:3000 or similar) in the terminal
+
+
+After adding Cursor IDE:
+ran in terminal: 
+
+
+NHKHAN@DESKTOP-V5NRBFL MINGW64 /f/McpServerLearning10may25/MCP-Server-Calculator
+$ mcp dev calculator.py
+FastMCP calculator module loaded
+Need to install the following packages:
+@modelcontextprotocol/inspector@0.12.0
+Ok to proceed? (y) y
+
+Starting MCP inspector...
+🔍 MCP Inspector is up and running at http://127.0.0.1:6274 🚀
+⚙️ Proxy server listening on port 6277
+New connection
+
+
+
+mcp.json: Integrating cursor with MCP.
+{
+  "mcpServers": {
+    "calculator": {
+      "type": "command",
+      "command": "mcp dev calculator.py",
+      "cwd": "F:/McpServerLearning10may25/MCP-Server-Calculator"
+    }
+  }
+}
